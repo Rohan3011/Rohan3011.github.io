@@ -13,7 +13,23 @@
       <pubDate>Sat, 15 Jul 2023 10:26:32 +0530</pubDate>
       
       <guid>http://rohankamble.me/posts/deep-dive-js/</guid>
-      <description>JavaScript console.log(&amp;#34;Hello World&amp;#34;); </description>
+      <description>JavaScript Tags: Advance, Frontend, Interview Resources: https://frontendmasters.com/courses/deep-javascript-v3
+1. Types Primitive Types: string
+number
+boolean
+object
+symbol
+undefined
+bigint
+undeclared?
+null?
+function?
+array?
+All are subtype of Object type.
+NaN and isNaN NaN (not a number) is a Invalid Number.
+var a = Number(&amp;#34;n/a&amp;#34;) console.log(a) // NaN console.log( a === a) // false 2. Coercion Coercion is a type conversion
+Number It coercion the object value to String first.
+// Corner case: Number(&amp;#34;n&amp;#34;) // NaN Number(&amp;#34;-0&amp;#34;) // -0 Special case:</description>
     </item>
     
   </channel>
